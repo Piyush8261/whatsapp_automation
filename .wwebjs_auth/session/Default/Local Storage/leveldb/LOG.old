@@ -1,0 +1,6 @@
+2025/09/17-02:26:58.382 6380 Reusing MANIFEST F:\periskope_wt\backend\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/09/17-02:26:58.663 6380 Recovering log #10
+2025/09/17-02:26:58.664 6380 Reusing old log F:\periskope_wt\backend\.wwebjs_auth\session\Default\Local Storage\leveldb/000010.log 
+2025/09/17-02:29:05.680 6720 Level-0 table #14: started
+2025/09/17-02:29:05.759 6720 Level-0 table #14: 16371 bytes OK
+2025/09/17-02:29:05.801 6720 Delete type=0 #10

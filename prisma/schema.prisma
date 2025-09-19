@@ -1,0 +1,17 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = "postgresql://piyush_learn_user:Z0HoxNVAADviTSIZVEaAVaplwKAmDmRq@dpg-d269j8re5dus73dcmigg-a.oregon-postgres.render.com:5432/piyush_learn?sslmode=require&pgbouncer=true&connect_timeout=10"
+}
+
+model Message {
+  id        Int      @id @default(autoincrement())
+  content   String
+  groupName String
+  sendAt    DateTime
+  status    String   @default("pending")
+  createdAt DateTime @default(now())
+}

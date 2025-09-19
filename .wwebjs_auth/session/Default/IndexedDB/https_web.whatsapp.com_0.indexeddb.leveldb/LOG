@@ -1,0 +1,53 @@
+2025/09/17-02:30:51.454 2c04 Reusing MANIFEST F:\periskope_wt\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-007326
+2025/09/17-02:30:51.455 2c04 Recovering log #7492
+2025/09/17-02:30:51.648 2c04 Reusing old log F:\periskope_wt\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/007492.log 
+2025/09/17-02:30:54.898 16e4 Level-0 table #7524: started
+2025/09/17-02:30:54.964 16e4 Level-0 table #7524: 1240754 bytes OK
+2025/09/17-02:30:54.987 16e4 Delete type=0 #7492
+2025/09/17-02:30:54.990 16e4 Manual compaction at level-0 from '\x00A\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at '\x00A\x00\x00\x05' @ 18947119 : 1
+2025/09/17-02:30:54.990 16e4 Compacting 1@0 + 0@1 files
+2025/09/17-02:30:55.052 16e4 Generated table #7525@0: 15861 keys, 263821 bytes
+2025/09/17-02:30:55.078 16e4 Generated table #7526@0: 923 keys, 126338 bytes
+2025/09/17-02:30:55.107 16e4 Generated table #7527@0: 3967 keys, 74285 bytes
+2025/09/17-02:30:55.107 16e4 Compacted 1@0 + 0@1 files => 464444 bytes
+2025/09/17-02:30:55.121 16e4 compacted to: files[ 0 3 31 0 0 0 0 ]
+2025/09/17-02:30:55.122 16e4 Delete type=2 #7524
+2025/09/17-02:30:55.122 16e4 Manual compaction at level-0 from '\x00A\x00\x00\x05' @ 18947119 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/17-02:30:57.436 16e4 Compacting 1@1 + 11@2 files
+2025/09/17-02:30:57.521 16e4 Generated table #7528@1: 5596 keys, 2153574 bytes
+2025/09/17-02:30:57.681 16e4 Generated table #7529@1: 24762 keys, 2259075 bytes
+2025/09/17-02:30:57.876 16e4 Generated table #7530@1: 25766 keys, 2207101 bytes
+2025/09/17-02:30:58.026 16e4 Generated table #7531@1: 25982 keys, 2215881 bytes
+2025/09/17-02:30:58.199 16e4 Generated table #7532@1: 43279 keys, 2231494 bytes
+2025/09/17-02:30:58.423 16e4 Generated table #7533@1: 67223 keys, 2293343 bytes
+2025/09/17-02:30:58.734 16e4 Generated table #7534@1: 41841 keys, 2294950 bytes
+2025/09/17-02:30:58.990 16e4 Generated table #7535@1: 30894 keys, 2234857 bytes
+2025/09/17-02:30:59.125 16e4 Generated table #7536@1: 37963 keys, 2194862 bytes
+2025/09/17-02:30:59.500 16e4 Generated table #7537@1: 17157 keys, 1438074 bytes
+2025/09/17-02:30:59.500 16e4 Compacted 1@1 + 11@2 files => 21523211 bytes
+2025/09/17-02:30:59.537 16e4 compacted to: files[ 0 2 30 0 0 0 0 ]
+2025/09/17-02:30:59.539 16e4 Delete type=2 #7497
+2025/09/17-02:30:59.539 16e4 Delete type=2 #7498
+2025/09/17-02:30:59.539 16e4 Delete type=2 #7499
+2025/09/17-02:30:59.539 16e4 Delete type=2 #7500
+2025/09/17-02:30:59.539 16e4 Delete type=2 #7501
+2025/09/17-02:30:59.539 16e4 Delete type=2 #7502
+2025/09/17-02:30:59.540 16e4 Delete type=2 #7503
+2025/09/17-02:30:59.540 16e4 Delete type=2 #7504
+2025/09/17-02:30:59.540 16e4 Delete type=2 #7505
+2025/09/17-02:30:59.540 16e4 Delete type=2 #7506
+2025/09/17-02:30:59.540 16e4 Delete type=2 #7517
+2025/09/17-02:30:59.540 16e4 Delete type=2 #7526
+2025/09/17-02:31:00.059 2fe4 Compacting 1@1 + 9@2 files
+2025/09/17-02:31:00.233 2fe4 Generated table #7538@1: 83022 keys, 2233204 bytes
+2025/09/17-02:31:00.517 2fe4 Generated table #7539@1: 95519 keys, 2248904 bytes
+2025/09/17-02:31:00.685 2fe4 Generated table #7540@1: 101333 keys, 2254433 bytes
+2025/09/17-02:31:00.823 2fe4 Generated table #7541@1: 63806 keys, 2299481 bytes
+2025/09/17-02:31:00.915 2fe4 Generated table #7542@1: 27296 keys, 2178673 bytes
+2025/09/17-02:31:01.048 2fe4 Generated table #7543@1: 54683 keys, 2213344 bytes
+2025/09/17-02:31:01.216 2fe4 Generated table #7544@1: 66082 keys, 2234765 bytes
+2025/09/17-02:31:01.383 2fe4 Generated table #7545@1: 54304 keys, 2224359 bytes
+2025/09/17-02:31:01.513 2fe4 Generated table #7546@1: 33482 keys, 2195088 bytes
+2025/09/17-02:31:01.541 2fe4 Generated table #7547@1: 37 keys, 62826 bytes
+2025/09/17-02:31:01.541 2fe4 Compacted 1@1 + 9@2 files => 20145077 bytes
+2025/09/17-02:31:01.554 2fe4 compacted to: files[ 0 1 31 0 0 0 0 ]
