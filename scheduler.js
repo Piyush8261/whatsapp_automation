@@ -1,5 +1,5 @@
 import cron from "node-cron";
-import ScheduledMessage from "../backend/models/ScheduledMessage.js";
+import ScheduledMessage from "./models/ScheduledMessage.js";
 import { getClient } from "./whatsappClient.js";
 import pkg from "whatsapp-web.js";
 
