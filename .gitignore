@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+.pnp
+.pnp.js
+
+# testing
+coverage
+
+# build
+dist
+build
+
+# env files
+.env
